@@ -22,5 +22,17 @@ let songs = [
         path: './music-item/music4.mp3',
         artist: 'QNT - MCK - Trung Trần',
         cover: 'img/query.jpg'
+    },
+    {
+        name: 'Dại Kher',
+        path: './music-item/music5.mp3',
+        artist: 'Sony Trần',
+        cover: 'img/daikher.jpg'
+    },
+    {
+        name: 'DSK ',
+        path: './music-item/music6.mp3',
+        artist: 'DSK',
+        cover: 'img/dsk.jpg'
     }
 ]
